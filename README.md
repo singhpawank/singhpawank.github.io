@@ -1,3 +1,3 @@
 # singhpawank.github.io
 
-Click [here](https://singhpawank.me/) to visit me.
+#### Click <a href="https://singhpawank.me" target="_blank">here</a> to visit me.
