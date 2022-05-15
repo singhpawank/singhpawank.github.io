@@ -203,3 +203,10 @@ hr.black {
 	color: #E61231 !important;
 	font-weight: bold;
 }
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
