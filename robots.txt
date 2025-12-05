@@ -1,0 +1,16 @@
+# Robots.txt for singhpawank.github.io
+# Allow all bots to crawl the site
+
+User-agent: *
+Allow: /
+Disallow: 
+
+# Specific rules for search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Specify sitemap location
+Sitemap: https://singhpawank.github.io/sitemap.xml
